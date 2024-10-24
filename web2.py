@@ -1,7 +1,6 @@
 # web2.py
 # 웹크롤링에 관련된 선언
 from bs4 import BeautifulSoup
-
 #웹서버에 요청
 import requests
 
